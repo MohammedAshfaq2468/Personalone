@@ -1,0 +1,37 @@
+body {
+  background-color: lavenderblush;
+  background:linear-gradient(128deg,rgb(218 230 242) 28%, rgb(203 168 229) 60%, rgb(22 181 181)75%);
+  background-repeat: no-repeat;
+}
+
+.subs {
+  background: linear-gradient(185deg, rgb(81 239 247) 8%, rgb(85 84 108) 60%, rgb(175 102 230)94%);
+  background-repeat: no-repeat;
+  color: gold;
+}
+
+.cont {
+  background: linear-gradient(200deg, rgb(175 102 230) 8%,rgb(81 239 247) 60%, rgb(85 84 108) 94%);
+  background-repeat: no-repeat;
+}
+
+.pozishun{
+   margin:auto 5em;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 6px;
+  width: 6%;
+}
+a{
+  text-decoration:none;
+}
+h1 {
+  color: grey;
+}
+
+h3 {
+  color: #ef8172;
+}
